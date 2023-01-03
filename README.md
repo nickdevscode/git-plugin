@@ -1,2 +1,2 @@
-# GitPlugin
-GitPlugin
+# git plugin
+git plugin
